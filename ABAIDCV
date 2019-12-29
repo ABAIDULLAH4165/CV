@@ -1,0 +1,47 @@
+<html>
+<body style="background-color:white;">
+<div style="position:absolute;top:110px;left:800px;color:red;">
+<p>ABAIDULLAH TAHIR<br>Hostel 6 ROOM 40 IIUI<br>03354368984<br>mianlala@gmail.com</p>
+</div>
+<div style="padding-left:0px;margin-top:10px; ">
+<h1 style="font-size:36pt;"><i><span style="color:blue;">PERSONAL INFORMATION</i></h1>
+<div style="padding-left:150px;margin-top:3px; ">
+<h1 style="font-size:36pt;"><i><span style="color:red;">Abaidullah tahir</span></i></h1>
+</div>
+<div id="menu" style="background-color:white;width:150px;height:700px;float:left;">
+</div>
+<div id="content" style="background-color:white;float:left;width:700px;height:1800px;">
+<pre><h1 style="font-size:25pt;">CAREER OBJECT:</h1>
+To be the part of an energetic organization and utilize my knowledge,Skills
+and expertise to contribute towards organization and professional
+Brilliance.<br>and to learn more with the passage of time from all<br>types of situations and circumstances <hr>
+<h1 style="font-size:25pt;">EDUCATION AND QUALIIFICATIONS:</h1>
+      <table ">
+<tr>
+    <th>Qualification</th>
+    <th>Maximun Marks</th>
+    <th>Obtained Marks</th>
+    <th>Division</th>
+    <th>Institution</th>
+    <th>Bord/University</th>
+
+<tr>
+    <td>ICS</td>
+    <td>1100</td>\-
+    <td>769</td>
+    <td>B/td>
+    <td>Govt. colleg,SHEIKHUPURA </td>
+    <td>LHR Board </td>
+</tr>
+<tr>
+    <td>MATRIC</td>
+    <td>1100</td>
+    <td>916</td>
+    <td>A</td>
+    <td> GOVT. high school SHEIKHUPURA</td>
+    <td>LHR Board </td>
+</tr>
+</table>
+</div>
+</body>
+</html>
